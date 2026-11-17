@@ -8,7 +8,7 @@ Este directorio contiene los archivos de simulación del circuito **PasaBajo_Bes
 
 Las simulaciones dependen de archivos auxiliares del amplificador operacional. Si descargas archivos de forma individual, LTspice arrojará un error al no encontrar las librerías vinculadas. Verifica que en tu carpeta local estén presentes:
 - **`TL082.301`**: Archivo del modelo SPICE proporcionado por el fabricante (Texas Instruments).
-- **`TL082.asc`**: Archivo del modelo/esquemático del TL082 generado por nosotros para su integración en el circuito.
+- **`TL082.asy`**: Archivo del modelo/esquemático del TL082 generado por nosotros para su integración en el circuito.
 
 ## Estructura de Archivos
 
