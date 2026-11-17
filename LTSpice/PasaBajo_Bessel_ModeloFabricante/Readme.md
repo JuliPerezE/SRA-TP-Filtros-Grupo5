@@ -15,7 +15,7 @@ Las simulaciones dependen de archivos auxiliares del amplificador operacional. S
 - **Esquemático (`.asc`)**: Diseño del circuito principal `PasaBajo_Bessel_ModeloFabricante`, donde se definen las conexiones y los valores nominales ideales de los componentes.
 - **Ejecutable Bode (`.cir`)**: Netlist ejecutable configurado para simular el diagrama de Bode (respuesta en frecuencia) de `PasaBajo_Bessel_ModeloFabricante`.
 - **Ejecutable Respuesta Escalón (`.cir`)**: Netlist ejecutable configurado para simular la respuesta temporal al escalón de `PasaBajo_Bessel_ModeloFabricante`.
-- **Modelos del AmpOp (`TL082.301` y `TL082.asc`)**: Archivos requeridos para emular el comportamiento real del TL082.
+- **Modelos del AmpOp (`TL082.301` y `TL082.asy`)**: Archivos requeridos para emular el comportamiento real del TL082.
 
 ## Parámetros de la Simulación
 
